@@ -1,5 +1,5 @@
-<h1> Daily learning
+#Daily learning
 
-<h2>Morning planning
+##Morning planning
 
-<h2>Review
+##Review
